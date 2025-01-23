@@ -63,7 +63,6 @@ The purpose of the exercise is to demonstrate the deployment of a windows virtua
 6. Go to **Overview** tab and copy public IP of your Virtual Machine 
     ![configure-vm-basics](./img/05-pub-ip.png)
 7. Paste it in the browser and check the result!
-    ![configure-vm-basics](./img/06-web-app.png)
 
 # Clean up
 Now simply delete resource LAB02 resource group.
