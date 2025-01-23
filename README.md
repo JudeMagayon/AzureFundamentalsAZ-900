@@ -7,10 +7,7 @@ This repository contains Az900 (Azure Fundamentals) materials, used during the *
 
 The workshop is intended to be a free, community-led event, and aims to deliver knowledge and practical experience on MS Azure Fundamentals to workshop participants. The contents of the workshop aim to cover most of the exam requirements, but should be accompanied by additional learning materials when studying for the exam.
 
-The workshop is organized by me
-
-(https://www.facebook.com/groups/azureugpl/) |
-|-|-|
+The workshop is organized by someone in your location
 ![gitpl](./img/HeyJude.png) | ![mrrobot](./img/maugp.png)
 
 ## The AZ-900 Exam: Microsoft Azure Fundamentals
