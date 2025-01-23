@@ -42,7 +42,7 @@ The purpose of the exercise is to demonstrate the deployment of a linux containe
 - **Container name**: set to `aci-hello`.
 - **Region**: pick a region.
 - **Image type**: ensure `Public` is set.
-- **Image name**: set to `girlsintechpl/aci-hello:latest`.
+- **Image name**: set to `Auzaboys/aci-hello:latest`.
 
 > If you have **docker** installed, you can test if the image is available with `docker pull mcr.microsoft.com/azuredocs/aci-helloworld:latest`.
 
@@ -74,7 +74,7 @@ The purpose of the exercise is to demonstrate the deployment of a linux containe
 
 ![aci-overview](./img/07-aci-overview.png)
 - Copy the ACI **FQDN** using the copy button
-- Paste the copied URL into your preferred browser and access the NodeJS application exposed by the `girlsintechpl/aci-hello:latest` container
+- Paste the copied URL into your preferred browser and access the NodeJS application exposed by the `Auzaboys/aci-hello:latest` container
 - The web-page exposed by the container should now be accessible
 
 ## Clean up
