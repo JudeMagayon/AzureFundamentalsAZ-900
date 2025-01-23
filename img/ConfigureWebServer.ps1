@@ -14,7 +14,7 @@ Configuration DeployWebPage
             DestinationPath = "C:\inetpub\wwwroot\index.html"
             Force = $true
             Type = "File"
-            Contents = "<html><body><img src='https://github.com/JudeMagayon/AzureFundamentalsAZ-900/raw/master/img/HeyJude.png'/><h1>Hey Looks like my AZ-900 training is going great!</h1></body></html>"
+            Contents = "<html><body><img src='https://github.com/JudeMagayon/AzureFundamentalsAZ-900/blob/main/img/HeyJude.png'/><h1>Hey Looks like my AZ-900 training is going great!</h1></body></html>"
         }
     }
 }
