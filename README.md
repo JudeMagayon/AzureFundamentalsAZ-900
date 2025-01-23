@@ -1,4 +1,4 @@
-# Girls in Tech - Az900 Workshop
+# Azure Fundamentals AZ-900
 
 ## Welcome
 This repository contains Az900 (Azure Fundamentals) materials, used during the **Girls in Tech** meetups and workshops.
@@ -7,13 +7,11 @@ This repository contains Az900 (Azure Fundamentals) materials, used during the *
 
 The workshop is intended to be a free, community-led event, and aims to deliver knowledge and practical experience on MS Azure Fundamentals to workshop participants. The contents of the workshop aim to cover most of the exam requirements, but should be accompanied by additional learning materials when studying for the exam.
 
-The workshop is organized by **Girls in Tech - Poland** in association with **Microsoft Azure User Group Poland** and is led by:
-- @marczakio
-- @mmisztal1980
+The workshop is organized by me
 
-|[Girls in Tech - Poland](https://poland.girlsintech.org/) |[Microsoft Azure User Group Poland](https://www.facebook.com/groups/azureugpl/) |
+(https://www.facebook.com/groups/azureugpl/) |
 |-|-|
-![gitpl](./img/girls-in-tech-poland.png) | ![maugp](./img/maugp.png)
+![gitpl](./img/HeyJude.png) | ![mrrobot](./img/maugp.png)
 
 ## The AZ-900 Exam: Microsoft Azure Fundamentals
 
