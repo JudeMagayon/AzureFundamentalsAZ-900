@@ -1,4 +1,4 @@
-# Lab 01 - Azure Portal and Navigation
+#Lab 01 - Azure Portal and Navigation
 
 ![logo](./img/azure.svg)
 
